@@ -1,9 +1,8 @@
-# 🧩 Problem: Subarray Sum Equals K
+# Problem: Subarray Sum Equals K
 
-## 🧠 Approach
-We use prefix sum and hashmap to store frequencies.
 
-## ⚡ Code (C++)
+
+## Code (C++)
 ```cpp
 class Solution {
 public:
